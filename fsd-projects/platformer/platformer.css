@@ -3,7 +3,8 @@ body {
 }
 
 canvas {
-  background-color: lightblue;
+  background-image: url("https://static.wikia.nocookie.net/bajoterra-slug/images/0/0d/1000px-UnnamedCavern2.jpg/revision/latest?cb=20131218124359&path-prefix=es");
+  background-size: cover;
   margin: 20px;
 }
 
